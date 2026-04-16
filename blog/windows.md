@@ -3,6 +3,7 @@ title: VZエディタマクロをWindows, Linux, macOSで
 tags: VZエディタ Windows Linux macOS ChatGPT
 author: kaizen_nagoya
 slide: false
+url: https://qiita.com/kaizen_nagoya/items/b01918c7ba2704ce4fdf
 ---
 Game Completeの乗りで、ProgramingをComplete。https://qiita.com/kaizen_nagoya/items/95dadda7dee06d27cdf1
 の発想にもとづいて、VZエディタをLinux MacOSで動くようにするにあたって、
